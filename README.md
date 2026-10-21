@@ -8,6 +8,10 @@ I work where data, software and engineering meet: data pipelines in PySpark and 
 
 An AI pre-check for technical customer inquiries (RFQs) at CNC machining companies.
 
+[![Anfrage-Check demo: a fictional CNC inquiry analysed in 13 seconds](https://vasanth-puli.github.io/Puli-Portfolio/assets/anfrage-check-poster.jpg)](https://vasanth-puli.github.io/Puli-Portfolio/#work-with-me)
+
+▶ [Watch the 1-minute demo on my portfolio](https://vasanth-puli.github.io/Puli-Portfolio/#work-with-me)
+
 Small manufacturers spend expensive engineering time reading emails, drawings and specifications before they can start costing. Anfrage-Check takes an RFQ as PDF or email text and returns, in about 15 seconds:
 
 - every technical requirement, with the exact source wording
