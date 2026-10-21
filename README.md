@@ -42,4 +42,4 @@ Python · SQL · PySpark · Databricks · Delta Lake · pandas · scikit-learn �
 
 [Portfolio](https://vasanth-puli.github.io/Puli-Portfolio/) · [LinkedIn](https://www.linkedin.com/in/vasanth-vk13-kumar/) · vasanthpuli413@gmail.com · Weimar, Germany
 
-🇬🇧 English (C2) · 🇩🇪 Deutsch (B2) · Telugu (native)
+🇬🇧 English (C2) · 🇩🇪 Deutsch (B1) · Telugu (native)
